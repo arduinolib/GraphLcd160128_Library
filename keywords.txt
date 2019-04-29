@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map For Glsd160128
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Glsd160128			KEYWORD1	
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Initialize			KEYWORD2
+clearGraphic		KEYWORD2
+clearText		    KEYWORD2
+printStr		    KEYWORD2
+printInt	        KEYWORD2
+Line			    KEYWORD2
+Circle			    KEYWORD2
+halfCircle		    KEYWORD2
+filledCircle		KEYWORD2
+Box			        KEYWORD2
+circleBox			KEYWORD2
+filledBox			KEYWORD2
+Triangle			KEYWORD2
+filledTriangle		KEYWORD2
+
+#######################################
